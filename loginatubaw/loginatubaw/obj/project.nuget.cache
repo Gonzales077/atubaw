@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHAFYQrr0dbybIVCweIIU/R+7h2YIfAau/3ch6gw16bUXE4Py1iL438BCT7syKOfKxf0YygdmGNI7ABb4GnKvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\loginatubaw\\loginatubaw\\loginatubaw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
